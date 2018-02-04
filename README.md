@@ -17,7 +17,7 @@ The purpose of this project was to analyze a data set for 20 minutes and asking 
 
 
 |Disease|State|Year|Count|
-|----|----|
+|----|----|----|----|
 |Hepatitis A|California|1968| 10,821|
 |Measles| Pennsylvania|1938|132,342|
 |Mumps|Michigan|1975|9867|
@@ -29,7 +29,7 @@ The purpose of this project was to analyze a data set for 20 minutes and asking 
 **2B. Compare the Year/State count to the Year/USA Count. What is the individual states overall percentage in relation to the nation.**
 
 |Year|Disease|State|State Count|USA Count| Percentage|
-|----|----|
+|----|----|----|----|
 |1968|Hepatitis A|California| 10,821|29,804|36.3%|
 |1938|Measles| Pennsylvania|132,342|620,916|21.3%|
 |1975|Mumps|Michigan|9867|49271|20.0%|

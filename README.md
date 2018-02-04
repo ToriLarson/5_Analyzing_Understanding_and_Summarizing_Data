@@ -36,7 +36,7 @@ The purpose of this project was to analyze a data set for 20 minutes and asking 
 |1939|Pertussis|New York| 22013|185,222|11.9%|
 |1939|Polio|New York| 22013|185222|11.9%|
 |1971|Rubella|California| 8384|185,222|26.2%
-|1930|Smallpox|Indiana|5239|44,027|11.9|
+|1930|Smallpox|Indiana|5239|44,027|11.9%|
 
 ## 52 Week Data
 

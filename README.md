@@ -29,14 +29,14 @@ The purpose of this project was to analyze a data set for 20 minutes and asking 
 **2B. Compare the Year/State count to the Year/USA Count. What is the individual states overall percentage in relation to the nation.**
 
 |Year|Disease|State|State Count|USA Count| Percentage|
-|----|----|----|----|
+|----|----|----|----|----|----|
 |1968|Hepatitis A|California| 10,821|29,804|36.3%|
 |1938|Measles| Pennsylvania|132,342|620,916|21.3%|
 |1975|Mumps|Michigan|9867|49271|20.0%|
 |1939|Pertussis|New York| 22013|185,222|11.9%|
 |1939|Polio|New York| 22013|185222|11.9%|
-|1971|Rubella| California| 8384|185,222|26.2%
-|1930|Smallpox| Indiana|5239|44,027|11.9|
+|1971|Rubella|California| 8384|185,222|26.2%
+|1930|Smallpox|Indiana|5239|44,027|11.9|
 
 ## 52 Week Data
 

@@ -102,9 +102,10 @@ options(scipen = 10)
 # Adding color to the scatterplot
 Week52plot <- (Week52plot + scale_color_manual(values = c("royalblue1", "green3", "violet", "red4", "darkorchid", "cyan1","coral")))
 
-#Joing DiseaseHigh and Week52_reporting by disease and year
+#Joining DiseaseHigh and Week52_reporting by disease and year
 total <- merge(DiseaseHigh, Week52_reporting, by=c("disease", "year"))
 
 # Creating the table with state counts, US counts, and percentages.
 Disease_percent = total %>% group_by(disease) %>% summarise(first(count.x), sum(count.y), first(state.x), first(year)) %>% mutate(percent.of.disease=`first(count.x)`/`sum(count.y)`*100)
 Disease_percent
+
